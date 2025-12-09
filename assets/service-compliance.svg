@@ -1,0 +1,11 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Shield with check mark">
+  <defs>
+    <linearGradient id="complianceGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#93c5fd" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="24" fill="#eef2ff" />
+  <path d="M60 22 L90 34 V60 C90 80 78 92 60 102 C42 92 30 80 30 60 V34 Z" fill="url(#complianceGradient)" />
+  <polyline points="42,60 56,72 80,46" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
