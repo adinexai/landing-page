@@ -135,10 +135,8 @@ body{
 }
 
 .card-img {
-  width: 70px;
-  height: 70px;
-  object-fit: contain;
-  margin: 0 auto 16px;
+  width: 100%;
+  height: auto;
+  margin-bottom: 16px;
   display: block;
 }
-
