@@ -144,15 +144,15 @@ body{
 }
 
 .service-img {
-  width: 130px;          /* bigger circle */
-  height: 130px;
+  width: 180px;          /* bigger circle */
+  height: 180px;
   object-fit: contain;   /* keep full icon visible */
   display: block;
-  margin: 0 auto 24px;   /* more spacing below */
+  margin: 0 auto 28px;   /* more spacing below */
   
   border-radius: 50%;    /* perfect circle */
   background: #ffffff;   /* clean white background */
-  padding: 18px;         /* icon gets larger but stays centered */
+  padding: 24px;         /* icon gets larger but stays centered */
 
   box-shadow: 0 4px 12px rgba(0,0,0,0.05); /* optional – makes it pop */
 }
