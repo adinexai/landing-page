@@ -85,7 +85,7 @@ body{
 .btn-primary{background:var(--primary);color:#fff}
 .btn-outline{background:transparent;border:1px solid #e6eefc;color:var(--accent)}
 
-.section{padding:48px 0}
+.section{padding:36px 0}
 .alt{background:#fbfdff}
 
 .cards-grid, .services-grid{
@@ -100,6 +100,14 @@ body{
   padding:18px;
   border-radius:var(--radius);
   box-shadow:0 1px 2px rgba(12,15,30,0.03);
+}
+
+.vision-list{
+  margin:12px 0 0;
+  padding-left:18px;
+  color:var(--muted);
+  font-size:15px;
+  line-height:1.6;
 }
 
 .leader-card{display:flex;gap:12px;align-items:center}
@@ -127,7 +135,8 @@ body{
 }
 
 #services {
-  padding-bottom: 20px; /* Reduce bottom spacing */
+  padding-top: 28px;
+  padding-bottom: 20px; /* Reduce overall spacing */
 }
 
 #why {
