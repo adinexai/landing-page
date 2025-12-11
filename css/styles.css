@@ -144,16 +144,15 @@ body{
 }
 
 .service-img {
-  width: 70px;
-  height: 70px;
+  width: 140px;
+  height: 140px;
   object-fit: contain;
   display: block;
-  margin: 0 auto 16px;
-  border-radius: 50%; /* makes images curved / circular */
-  background: #fff;   /* optional clean white circle */
-  padding: 8px;       /* optional spacing */
+  margin: 0 auto 20px;
+  border-radius: 50%;
+  background: #fff;
+  padding: 16px;
 }
-
 .service {
   text-align: center;
 }
